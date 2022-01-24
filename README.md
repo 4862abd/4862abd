@@ -11,17 +11,16 @@
 
 
 
-#### Email me
 ##### :email: email
 4862abd@gmail.com
 
 <hr>
 <br>
 
-:octocat: github
+##### :octocat: github
 https://github.com/4862abd
 
-+ blog
+##### + blog
 https://blog.naver.com/4862abd
 
 <br>
