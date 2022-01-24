@@ -8,7 +8,6 @@
 
 
 #### Email me
-
 :email: email
 4862abd@gmail.com
 
@@ -25,7 +24,6 @@ https://blog.naver.com/4862abd
 
 ## :computer: 내가 할 수 있어
 #### Skills
-
 - Vue.js, JavaScript, JSP, ajax
 - Java, Spring, Spring Boot
 - MyBatis, JPA, Hybernate
