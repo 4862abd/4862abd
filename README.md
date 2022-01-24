@@ -1,5 +1,5 @@
 # 끊임없이 배워가는 개발자, 박병우입니다.
-<img src="https://img.shields.io/badge/-Vue.js-brightgreen"/></a> &nbsp
+
 <br>
 <br>
 
@@ -22,7 +22,11 @@ https://blog.naver.com/4862abd
 ## :computer: 내가 할 수 있어
 #### Skills
 
-https://img.shields.io/static/v1?label=null&message=Vue.js&color=brightgreen
+<img src="https://img.shields.io/badge/-Vue.js-brightgreen"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Java-orange"/></a> &nbsp
+<img src="https://img.shields.io/badge/-MyBatis-lightgreye"/></a> &nbsp
+<img src="https://https://img.shields.io/badge/-PostgreSQL-9cf"/></a>
+<br>
 - Vue.js, JavaScript, JSP, ajax
 - Java, Spring, Spring Boot
 - MyBatis, JPA, Hybernate
