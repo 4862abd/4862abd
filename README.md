@@ -46,12 +46,11 @@ https://blog.naver.com/4862abd
 <img src="https://img.shields.io/badge/PostgreSQL-F0F0F0?style=flat-square&logo=PostgreSQL&logoColor=4169E1"/></a>
 <img src="https://img.shields.io/badge/Oracle-F0F0F0?style=flat-square&logo=Oracle&logoColor=F80000"/></a>
 
-<br>
 <hr>
-<br>
 
 ### License
 - 정보처리산업기사
+    ㄴ Upgrading
 - SQLD <br>
     ㄴ Upgrading
 - 네트워크 관리사 2급
