@@ -44,13 +44,16 @@ https://blog.naver.com/4862abd
 <img src="https://img.shields.io/badge/PostgreSQL-F0F0F0?style=flat-square&logo=PostgreSQL&logoColor=4169E1"/></a>
 <img src="https://img.shields.io/badge/Oracle-F0F0F0?style=flat-square&logo=Oracle&logoColor=F80000"/></a>
 
-<br>
-
 #### License
 - 정보처리산업기사
 - SQLD
 - 네트워크 관리사 2급
-<img src="https://img.shields.io/badge/Oracle-F0F0F0?style=flat-square"/></a>
+
+<img src="https://img.shields.io/badge/정보처리산업기사-F0F0F0?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/SQLD-F0F0F0?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/네트워크 관리사-F0F0F0?style=flat-square"/></a>
+
+
 <!--
 **4862abd/4862abd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
