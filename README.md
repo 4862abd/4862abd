@@ -7,6 +7,10 @@
 - 코더가 되지 않기 위해 노력 중이야.
 
 <br>
+:postbox: email
+4862abd@gmail.com
+
+<br>
 :octocat: github
 https://github.com/4862abd
 
