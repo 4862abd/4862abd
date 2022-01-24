@@ -21,7 +21,7 @@ https://blog.naver.com/4862abd
 ## :computer: 내가 할 수 있어
 #### Skills
 
-https://img.shields.io/badge/<>-<Vue.js>-<brightgreen>
+https://img.shields.io/static/v1?label=<LABEL>&message=<Vue.js>&color=<brightgreen>
 - Vue.js, JavaScript, JSP, ajax
 - Java, Spring, Spring Boot
 - MyBatis, JPA, Hybernate
