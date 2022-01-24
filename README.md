@@ -55,7 +55,7 @@ https://blog.naver.com/4862abd
 ### License
 - 정보처리산업기사
 - SQLD <br>
-  ㄴ Upgrading
+    ㄴ Upgrading
 - 네트워크 관리사 2급
 
 <img src="https://img.shields.io/badge/정보처리산업기사-F0F0F0?style=flat-square"/></a>
