@@ -22,10 +22,11 @@ https://blog.naver.com/4862abd
 #### Skills
 
 - Vue.js, JavaScript, JSP, ajax
-- Java, Spring, Springboot
-- Mybatis, JPA, Hybernate
+- Java, Spring, Spring Boot
+- MyBatis, JPA, Hybernate
 - PostgreSQL, Oracle
-
+- AUIGrid
+- AutoCAD
 
 
 
