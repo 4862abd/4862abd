@@ -6,8 +6,9 @@
 - 공부하며 채운 노트만 7권.
 - 코더가 되지 않기 위해 노력 중이야.
 
+### 연락해
 <br>
-:postbox: email
+:email: email
 4862abd@gmail.com
 
 <br>
