@@ -2,11 +2,11 @@
 <br>
 :neckbeard:
 <br>
+
 ## 이게 나야
 - 1년 차 새내기 웹 개발자, 박병우 입니다.
 - Front End부터 Back end까지 공부 중 입니다.
 - 공부하며 채운 노트만 7권.
-<br>
 - 코더가 되지 않기 위해 노력 중이야.
 
 :octocat: github
