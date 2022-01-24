@@ -32,7 +32,7 @@ https://blog.naver.com/4862abd
 - AutoCAD
 
 <img src="https://img.shields.io/badge/Vue.js-F0F0F0?style=flat-square&logo=Vue.js&logoColor=4FC08D"/></a>
-<img src="https://img.shields.io/badge/Vue.js-F0F0F0?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F0F0F0?style=flat-square&logo=JavaScript&logoColor=lightgrey"/></a>
 <img src="https://img.shields.io/badge/Java-F0F0F0?style=flat-square&logo=Java&logoColor=red"/></a>
 
 <img src="https://img.shields.io/badge/-Vue.js-brightgreen"/></a>
