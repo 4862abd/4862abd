@@ -31,13 +31,15 @@ https://blog.naver.com/4862abd
 - AUIGrid
 - AutoCAD
 
+<img src="https://img.shields.io/badge/HTML5-F0F0F0?style=flat-square&logo=HTML5&logoColor=E34F26"/></a>
+<img src="https://img.shields.io/badge/CSS3-F0F0F0?style=flat-square&logo=CSS3&logoColor=1572B6"/></a>
 <img src="https://img.shields.io/badge/Vue.js-F0F0F0?style=flat-square&logo=Vue.js&logoColor=4FC08D"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F0F0F0?style=flat-square&logo=JavaScript&logoColor=lightgrey"/></a>
 <img src="https://img.shields.io/badge/Java-F0F0F0?style=flat-square&logo=Java&logoColor=red"/></a>
-<img src="https://img.shields.io/badge/Java-F0F0F0?style=flat-square&logo=Spring&logoColor=6DB33F"/></a>
-<img src="https://img.shields.io/badge/Java-F0F0F0?style=flat-square&logo=SpringBoot&logoColor=6DB33F"/></a>
-<img src="https://img.shields.io/badge/Java-F0F0F0?style=flat-square&logo=PostgreSQL&logoColor=4169E1"/></a>
-<img src="https://img.shields.io/badge/Java-F0F0F0?style=flat-square&logo=Oracle&logoColor=F80000"/></a>
+<img src="https://img.shields.io/badge/Spring-F0F0F0?style=flat-square&logo=Spring&logoColor=6DB33F"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-F0F0F0?style=flat-square&logo=SpringBoot&logoColor=6DB33F"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-F0F0F0?style=flat-square&logo=PostgreSQL&logoColor=4169E1"/></a>
+<img src="https://img.shields.io/badge/Oracle-F0F0F0?style=flat-square&logo=Oracle&logoColor=F80000"/></a>
 
 
 <img src="https://img.shields.io/badge/-Vue.js-brightgreen"/></a>
