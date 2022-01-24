@@ -31,8 +31,8 @@ https://blog.naver.com/4862abd
 - AUIGrid
 - AutoCAD
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Vue.js-brightgreen"/></a>
 <img src="https://img.shields.io/badge/-Java-orange"/></a>
 <img src="https://img.shields.io/badge/-MyBatis-lightgrey"/></a>
