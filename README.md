@@ -16,6 +16,9 @@
 4862abd@gmail.com
 
 <br>
+<hr>
+<br>
+
 :octocat: github
 https://github.com/4862abd
 
@@ -23,9 +26,6 @@ https://github.com/4862abd
 + blog
 https://blog.naver.com/4862abd
 
-<br>
-<hr>
-<br>
 
 ## :computer: 내가 할 수 있어
 #### Skills
