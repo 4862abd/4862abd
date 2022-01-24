@@ -27,7 +27,7 @@ https://blog.naver.com/4862abd
 <br>
 
 ## :computer: 내가 할 수 있어
-#### Skills
+### Skills
 - Vue.js, JavaScript, JSP, ajax
 - Java, Spring, Spring Boot
 - MyBatis, JPA, Hybernate
@@ -52,7 +52,7 @@ https://blog.naver.com/4862abd
 <hr>
 <br>
 
-#### License
+### License
 - 정보처리산업기사
 - SQLD
 - 네트워크 관리사 2급
