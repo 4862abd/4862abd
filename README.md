@@ -22,17 +22,18 @@ https://blog.naver.com/4862abd
 ## :computer: 내가 할 수 있어
 #### Skills
 
-<img src="https://img.shields.io/badge/-Vue.js-brightgreen"/></a>
-<img src="https://img.shields.io/badge/-Java-orange"/></a>
-<img src="https://img.shields.io/badge/-MyBatis-lightgrey"/></a>
-<img src="https://img.shields.io/badge/-PostgreSQL-9cf"/></a>
-<br>
 - Vue.js, JavaScript, JSP, ajax
 - Java, Spring, Spring Boot
 - MyBatis, JPA, Hybernate
 - PostgreSQL, Oracle
 - AUIGrid
 - AutoCAD
+
+<img src="https://img.shields.io/badge/-Vue.js-brightgreen"/></a>
+<img src="https://img.shields.io/badge/-Java-orange"/></a>
+<img src="https://img.shields.io/badge/-MyBatis-lightgrey"/></a>
+<img src="https://img.shields.io/badge/-PostgreSQL-blue"/></a>
+<img src="https://img.shields.io/badge/-AUIGrid-9cf"/></a>
 
 
 
