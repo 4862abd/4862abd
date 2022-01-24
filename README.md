@@ -26,7 +26,7 @@ https://blog.naver.com/4862abd
 
 <br>
 
-# :computer: 내가 할 수 있어
+## :computer: 내가 할 수 있어
 #### Skills
 - Vue.js, JavaScript, JSP, ajax
 - Java, Spring, Spring Boot
