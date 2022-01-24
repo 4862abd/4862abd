@@ -1,5 +1,5 @@
 ### 끊임없이 배워가는 개발자, 박병우입니다. 👋
-
+<input type="text" value="끊임없이 배워가는 개발자, 박병우입니다." style="font-weight: 110;">
 <!--
 **4862abd/4862abd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
