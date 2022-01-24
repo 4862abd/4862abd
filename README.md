@@ -9,7 +9,6 @@
 
 <br>
 <hr>
-<br>
 
 #### Email me
 :email: email
@@ -24,6 +23,7 @@ https://github.com/4862abd
 + blog
 https://blog.naver.com/4862abd
 
+<br>
 
 ## :computer: 내가 할 수 있어
 #### Skills
