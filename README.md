@@ -50,7 +50,7 @@ https://blog.naver.com/4862abd
 - 정보처리산업기사
 - SQLD
 - 네트워크 관리사 2급
-
+<img src="https://img.shields.io/badge/Oracle-F0F0F0?style=flat-square"/></a>
 <!--
 **4862abd/4862abd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
