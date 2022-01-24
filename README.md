@@ -24,8 +24,8 @@ https://blog.naver.com/4862abd
 
 <img src="https://img.shields.io/badge/-Vue.js-brightgreen"/></a>
 <img src="https://img.shields.io/badge/-Java-orange"/></a>
-<img src="https://img.shields.io/badge/-MyBatis-lightgreye"/></a>
-<img src="https://https://img.shields.io/badge/-PostgreSQL-9cf"/></a>
+<img src="https://img.shields.io/badge/-MyBatis-lightgrey"/></a>
+<img src="https://img.shields.io/badge/-PostgreSQL-9cf"/></a>
 <br>
 - Vue.js, JavaScript, JSP, ajax
 - Java, Spring, Spring Boot
