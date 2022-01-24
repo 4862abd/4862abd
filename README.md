@@ -21,7 +21,6 @@
 :octocat: github
 https://github.com/4862abd
 
-<br>
 + blog
 https://blog.naver.com/4862abd
 
