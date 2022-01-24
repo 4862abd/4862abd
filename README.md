@@ -1,8 +1,9 @@
 # 끊임없이 배워가는 개발자, 박병우입니다.
 # :smirk: 이게 나야
+
 <hr>
 
-## 나는 말이지
+## Intro
 - 1년 차 새내기 웹 개발자, 박병우 입니다.
 - Front End부터 Back end까지 공부 중 이며 업무 중 노트를 두고 다니지 않습니다.
 - 공부하며 채운 노트만 7권.
@@ -25,7 +26,7 @@ https://blog.naver.com/4862abd
 
 <br>
 
-## :computer: 내가 할 수 있어
+# :computer: 내가 할 수 있어
 #### Skills
 - Vue.js, JavaScript, JSP, ajax
 - Java, Spring, Spring Boot
