@@ -16,6 +16,17 @@ https://github.com/4862abd
 :heavy_plus_sign: blog
 https://blog.naver.com/4862abd
 
+<br>
+<br>
+
+## :computer: 내가 할 수 있어
+<br>
+#### Skills
+- Vue.js, JavaScript, JSP, ajax
+- Java, Spring, Springboot
+- Mybatis, JPA, Hybernate
+- PostgreSQL, Oracle
+
 
 
 
