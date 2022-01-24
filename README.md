@@ -1,6 +1,5 @@
 # 끊임없이 배워가는 개발자, 박병우입니다.
-https://img.shields.io/badge/-Vue.js-brightgreen
-
+<img src="https://img.shields.io/badge/-Vue.js-brightgreen"/></a> &nbsp
 <br>
 <br>
 
