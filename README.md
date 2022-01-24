@@ -17,7 +17,7 @@
 https://github.com/4862abd
 
 <br>
-:heavy_plus_sign: blog
++ blog
 https://blog.naver.com/4862abd
 
 <br>
