@@ -16,7 +16,6 @@
 4862abd@gmail.com
 
 <hr>
-<br>
 
 ##### :octocat: github
 https://github.com/4862abd
