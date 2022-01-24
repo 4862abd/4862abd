@@ -1,4 +1,4 @@
-### Hi there 👋
+### 끊임없이 배워가는 개발자, 박병우입니다. 👋
 
 <!--
 **4862abd/4862abd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
