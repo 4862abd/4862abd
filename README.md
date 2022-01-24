@@ -38,17 +38,9 @@ https://blog.naver.com/4862abd
 <img src="https://img.shields.io/badge/Java-F0F0F0?style=flat-square&logo=Java&logoColor=red"/></a>
 <img src="https://img.shields.io/badge/Spring-F0F0F0?style=flat-square&logo=Spring&logoColor=6DB33F"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-F0F0F0?style=flat-square&logo=SpringBoot&logoColor=6DB33F"/></a>
+<img src="https://img.shields.io/badge/Hibernate-F0F0F0?style=flat-square&logo=Hibernate&logoColor=59666C"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-F0F0F0?style=flat-square&logo=PostgreSQL&logoColor=4169E1"/></a>
 <img src="https://img.shields.io/badge/Oracle-F0F0F0?style=flat-square&logo=Oracle&logoColor=F80000"/></a>
-
-
-<img src="https://img.shields.io/badge/-Vue.js-brightgreen"/></a>
-<img src="https://img.shields.io/badge/-Java-orange"/></a>
-<img src="https://img.shields.io/badge/-MyBatis-lightgrey"/></a>
-<img src="https://img.shields.io/badge/-PostgreSQL-blue"/></a>
-<img src="https://img.shields.io/badge/-AUIGrid-9cf"/></a>
-
-
 
 <!--
 **4862abd/4862abd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
