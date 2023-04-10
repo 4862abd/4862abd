@@ -4,11 +4,11 @@
 <hr>
 
 ### Intro
-- 1년 차 새내기 웹 개발자, 박병우 입니다.(2021)
-- Front End부터 Back end까지 공부 중 이며 업무 중 노트를 두고 다니지 않습니다.
-- 공부하며 채운 노트만 7권.
-- 최근에는 업무와 별개로 친구와 토이 프로젝트 구상에 대하여 논의 중 입니다.
-- 코더가 되지 않기 위해 노력 중이야.
+- 2년 차 새내기 웹 개발자, 박병우 입니다.
+- Front End부터 Back end까지 업무를 이어갔고, 현재는 Back end 에 집중 중입니다.
+- 최근에는 업무와 별개로 첼린지 토이 프로젝트 진행 중 입니다.
+- 코더가 되지 않기 위해 노력 중이야 입니다.
+- 학원 시절, 공부하며 채운 노트만 7권.
 <br>
 
 ##### :email: email
@@ -22,12 +22,15 @@ https://github.com/4862abd
 ##### + blog
 https://blog.naver.com/4862abd
 
+##### + Notion
+https://steep-smash-f45.notion.site/Backend-a93ce248238b4b3bb3c60a9e5e850772
+
 <br>
 
 ## :computer: 내가 할 수 있어
 ### Skills
-- Vue.js, JavaScript, JSP, ajax
-- Java, Spring, Spring Boot
+- 냄새 맡은 수준: Vue.js, JavaScript, Node.js
+- 아직 겉핥기: Java, Spring, Spring Boot
 - MyBatis, JPA, Hybernate
 - PostgreSQL, Oracle
 - AUIGrid
@@ -49,7 +52,8 @@ https://blog.naver.com/4862abd
 <hr>
 
 ### License
-- 정보처리산업기사 <br>
+- 정보처리산업기사
+    - 정보처리기사<필기합> <br>
 - SQLD <br>
     ㄴ Upgrading
 - 네트워크 관리사 2급
