@@ -4,11 +4,11 @@
 <hr>
 
 ### Intro
-- 2년 차 새내기 웹 개발자, 박병우 입니다.
+- 3년 차 웹 개발자, 박병우 입니다.
 - Front End부터 Back end까지 업무를 이어갔고, 현재는 Back end 에 집중 중입니다.
-- 최근에는 업무와 별개로 첼린지 토이 프로젝트 진행 중 입니다.
+- 최근에는 업무와 별개로 첼린지 토이 프로젝트와 스터디를 진행 중 입니다.
 - 코더가 되지 않기 위해 노력 중 입니다.
-- 학원 시절, 공부하며 채운 노트만 7권.
+
 <br>
 
 ##### :email: email
@@ -21,6 +21,7 @@ https://github.com/4862abd
 
 ##### + blog
 https://blog.naver.com/4862abd
+https://4862abd.github.io
 
 ##### + Notion
 https://steep-smash-f45.notion.site/Backend-a93ce248238b4b3bb3c60a9e5e850772
@@ -29,10 +30,10 @@ https://steep-smash-f45.notion.site/Backend-a93ce248238b4b3bb3c60a9e5e850772
 
 ## :computer: 내가 할 수 있어
 ### Skills
-- 냄새 맡은 수준: Vue.js, JavaScript, Node.js
-- 아직 겉핥기: Java, Spring, Spring Boot
+- Vue.js, JavaScript, Node.js
+- Java, Spring, Spring Boot
 - MyBatis, JPA, Hybernate
-- PostgreSQL, Oracle
+- PostgreSQL, Oracle, MySQL, H2
 - AUIGrid
 - AutoCAD
 
@@ -52,10 +53,8 @@ https://steep-smash-f45.notion.site/Backend-a93ce248238b4b3bb3c60a9e5e850772
 <hr>
 
 ### License
-- 정보처리산업기사
-    - 정보처리기사<필기합> <br>
+- 정보처리산업기사<br>
 - SQLD <br>
-    ㄴ Upgrading
 - 네트워크 관리사 2급
 
 <img src="https://img.shields.io/badge/정보처리산업기사-F0F0F0?style=flat-square"/></a>
