@@ -44,19 +44,22 @@ https://steep-smash-f45.notion.site/Backend-a93ce248238b4b3bb3c60a9e5e850772
 <img src="https://img.shields.io/badge/CSS3-F0F0F0?style=flat-square&logo=CSS3&logoColor=1572B6"/></a>
 <img src="https://img.shields.io/badge/Vue.js-F0F0F0?style=flat-square&logo=Vue.js&logoColor=4FC08D"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F0F0F0?style=flat-square&logo=JavaScript&logoColor=lightgrey"/></a>
-<hr>
+<br>
+
 <img src="https://img.shields.io/badge/Java-F0F0F0?style=flat-square&logo=Java&logoColor=red"/></a>
 <img src="https://img.shields.io/badge/Spring-F0F0F0?style=flat-square&logo=Spring&logoColor=6DB33F"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-F0F0F0?style=flat-square&logo=SpringBoot&logoColor=6DB33F"/></a>
 <img src="https://img.shields.io/badge/SpringSecurity-F0F0F0?style=flat-square&logo=springsecurity&logoColor=#6DB33F"/></a>
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-F0F0F0?style=flat-square&label=JPA&labelColor=6DB33F"/></a>
 <img src="https://img.shields.io/badge/Hibernate-F0F0F0?style=flat-square&logo=Hibernate&logoColor=59666C"/></a>
-<hr>
+<br>
+
 <img src="https://img.shields.io/badge/PostgreSQL-F0F0F0?style=flat-square&logo=PostgreSQL&logoColor=4169E1"/></a>
 <img src="https://img.shields.io/badge/Oracle-F0F0F0?style=flat-square&logo=Oracle&logoColor=F80000"/></a>
 <img src="https://img.shields.io/badge/MySQL-F0F0F0?style=flat-square&logo=mysql&logoColor=0101DF"/></a>
 <img src="https://img.shields.io/badge/H2%20DB-F0F0F0?style=flat-square&label=H2&labelColor=08088A"/></a>
-<hr>
+<br>
+
 <img src="https://img.shields.io/badge/AWS%20EC2-F0F0F0?style=flat-square&logo=amazonec2&logoColor=F80000"/></a>
 <img src="https://img.shields.io/badge/AWS%20RDS-F0F0F0?style=flat-square&logo=amazonrds&logoColor=2E2EFE"/></a>
 
