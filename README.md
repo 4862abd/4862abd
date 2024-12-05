@@ -62,9 +62,7 @@ https://steep-smash-f45.notion.site/Backend-a93ce248238b4b3bb3c60a9e5e850772
 
 <img src="https://img.shields.io/badge/AWS%20EC2-F0F0F0?style=flat-square&logo=amazonec2&logoColor=F80000"/></a>
 <img src="https://img.shields.io/badge/AWS%20RDS-F0F0F0?style=flat-square&logo=amazonrds&logoColor=2E2EFE"/></a>
-
-[amazonec2](https://img.shields.io/badge/EC2-F0F0F0)
-
+<img src="https://img.shields.io/badge/Linux-F0F0F0?style=flat-square&logo=linux&logoColor=190707"/></a>
 <hr>
 
 ### License
