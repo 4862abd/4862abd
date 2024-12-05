@@ -46,7 +46,7 @@ https://steep-smash-f45.notion.site/Backend-a93ce248238b4b3bb3c60a9e5e850772
 <img src="https://img.shields.io/badge/JavaScript-F0F0F0?style=flat-square&logo=JavaScript&logoColor=lightgrey"/></a>
 <br>
 
-<img src="https://img.shields.io/badge/Java-F0F0F0?style=flat-square&logo=Java&logoColor=red"/></a>
+<img src="https://img.shields.io/badge/Java-F0F0F0?style=flat-square&label=Java&labelColor=FF0000"/></a>
 <img src="https://img.shields.io/badge/Spring-F0F0F0?style=flat-square&logo=Spring&logoColor=6DB33F"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-F0F0F0?style=flat-square&logo=SpringBoot&logoColor=6DB33F"/></a>
 <img src="https://img.shields.io/badge/SpringSecurity-F0F0F0?style=flat-square&logo=springsecurity&logoColor=#6DB33F"/></a>
