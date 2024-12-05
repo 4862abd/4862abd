@@ -19,13 +19,13 @@
 ##### :octocat: github
 https://github.com/4862abd
 
-##### + blog
-https://blog.naver.com/4862abd
-<br>
-https://4862abd.github.io
+<!-- ##### + blog  -->
+<!-- https://blog.naver.com/4862abd  -->
+<!-- <br>  -->
+<!-- https://4862abd.github.io  -->
 
 ##### + Notion
-https://steep-smash-f45.notion.site/Backend-a93ce248238b4b3bb3c60a9e5e850772
+https://www.notion.so/12db052b594380568f41e1821757feae
 
 <br>
 
@@ -35,7 +35,7 @@ https://steep-smash-f45.notion.site/Backend-a93ce248238b4b3bb3c60a9e5e850772
 - Java, Spring, Spring Boot
 - MyBatis, JPA, Hybernate
 - PostgreSQL, Oracle, MySQL, H2
-- EC2, RDS, Rinux
+- EC2, RDS
 - AUIGrid
 
 <br>
@@ -49,7 +49,6 @@ https://steep-smash-f45.notion.site/Backend-a93ce248238b4b3bb3c60a9e5e850772
 <img src="https://img.shields.io/badge/Java-F0F0F0?style=flat-square&label=Java&labelColor=FF0000"/></a>
 <img src="https://img.shields.io/badge/Spring-F0F0F0?style=flat-square&logo=Spring&logoColor=6DB33F"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-F0F0F0?style=flat-square&logo=SpringBoot&logoColor=6DB33F"/></a>
-<img src="https://img.shields.io/badge/SpringSecurity-F0F0F0?style=flat-square&logo=springsecurity&logoColor=#6DB33F"/></a>
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-F0F0F0?style=flat-square&label=JPA&labelColor=6DB33F"/></a>
 <img src="https://img.shields.io/badge/Hibernate-F0F0F0?style=flat-square&logo=Hibernate&logoColor=59666C"/></a>
 <br>
@@ -62,7 +61,6 @@ https://steep-smash-f45.notion.site/Backend-a93ce248238b4b3bb3c60a9e5e850772
 
 <img src="https://img.shields.io/badge/AWS%20EC2-F0F0F0?style=flat-square&logo=amazonec2&logoColor=F80000"/></a>
 <img src="https://img.shields.io/badge/AWS%20RDS-F0F0F0?style=flat-square&logo=amazonrds&logoColor=2E2EFE"/></a>
-<img src="https://img.shields.io/badge/Linux-F0F0F0?style=flat-square&logo=linux&logoColor=190707"/></a>
 <hr>
 
 ### License
